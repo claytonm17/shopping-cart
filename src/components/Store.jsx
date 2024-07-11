@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-function Shop() {
+function Store() {
 
     return (
       <>
@@ -11,5 +11,5 @@ function Shop() {
     )
   }
   
-  export default Shop
+  export default Store
   

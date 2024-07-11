@@ -6,7 +6,7 @@ function Cart() {
       <>
         <h1 className="text-3xl font-bold underline">Cart</h1>
         <Link to="/">Home</Link>
-        <Link to="shop">Store</Link>
+        <Link to="store">Store</Link>
       </>
     )
   }
